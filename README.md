@@ -1,6 +1,6 @@
-# Bridge & Relayer THEORY
+# Bridge & Relayer: The Indispensable Duo for Connecting Blockchains
 
-### **Bridge & Relayer: The Indispensable Duo for Connecting Blockchains**
+### **Theory**
 
 The blockchain world is no longer an archipelago of isolated ecosystems. We have entered the multi-chain era, where dozens of networks coexist. But how do we make these digital "islands" communicate? The answer lies in the collaboration of two powerful patterns: the **Bridge** and the **Relayer**.
 
