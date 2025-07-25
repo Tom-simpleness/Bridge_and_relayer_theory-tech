@@ -243,8 +243,8 @@ To run this demonstration on your own machine, follow these steps.
 First, clone the repository and install the required dependencies:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/Tom-simpleness/Bridge_and_relayer_theory-tech.git
+cd Bridge_and_relayer_theory-tech
 npm install
 ```
 
